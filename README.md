@@ -1,2 +1,2 @@
-# IntelliJSettings
+# IntelliJSettingsIDEA
 Settings for IntelliJ IDEA
