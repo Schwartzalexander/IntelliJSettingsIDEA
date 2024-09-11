@@ -4,6 +4,11 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
       <entry key="VcsFileHistoryView">
         <PlaceSettings />
       </entry>
