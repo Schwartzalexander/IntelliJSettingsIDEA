@@ -5,6 +5,7 @@
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.spring.websocket" />
         <option value="com.intellij.jdbi" />
+        <option value="com.intellij.spring.webflow" />
       </list>
     </option>
   </component>
