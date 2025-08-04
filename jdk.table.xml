@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="temurin-21" />
       <type value="JavaSDK" />
-      <version value="java version &quot;21.0.4&quot;" />
+      <version value="Eclipse Temurin 21.0.4" />
       <homePath value="$USER_HOME$/.jdks/temurin-21.0.4" />
       <roots>
         <annotationsPath>
