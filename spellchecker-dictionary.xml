@@ -5,12 +5,15 @@
       <w>clamavrestclient</w>
       <w>firestore</w>
       <w>lisit</w>
+      <w>lnrw</w>
       <w>logineo</w>
       <w>schluessel</w>
+      <w>schul</w>
       <w>schultraeger</w>
       <w>schultraegers</w>
       <w>sogo</w>
       <w>unterstütz</w>
+      <w>verifikationslink</w>
     </words>
   </component>
 </application>
